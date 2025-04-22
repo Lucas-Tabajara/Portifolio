@@ -1,0 +1,105 @@
+/* Definição de variáveis com cores modernas e gradientes */
+:root {
+    --primary-bg: linear-gradient(135deg, #667eea, #764ba2);
+    --primary-color: #fff;
+    --secondary-color: #f0f0f0;
+    --accent-color: #ff6b6b;
+    --font-stack: 'Roboto', sans-serif;
+  }
+  
+  /* Reset de box-sizing para todos os elementos */
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-stack);
+    line-height: 1.6;
+    background: var(--secondary-color);
+    color: #333;
+  }
+  
+  /* Cabeçalho com gradiente e sombra sutil */
+  header {
+    background: var(--primary-bg);
+    color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Navegação com Flexbox e transições para interações */
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 1rem 0 0;
+  }
+  
+  nav ul li {
+    margin: 0 1rem;
+  }
+  
+  nav ul li a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.5rem;
+    transition: color 0.3s ease, background-color 0.3s ease;
+  }
+  
+  nav ul li a:hover {
+    background: var(--accent-color);
+    border-radius: 5px;
+  }
+  
+  /* Seção centralizada com animação e sombras para profundidade */
+  section {
+    background: #fff;
+    padding: 2rem;
+    margin: 2rem auto;
+    max-width: 1200px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  /* Animação de entrada suave */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Estilo para projetos com destaque e efeito hover */
+  .project {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border-left: 4px solid var(--primary-bg);
+    background: var(--secondary-color);
+    transition: transform 0.3s ease;
+  }
+  
+  .project:hover {
+    transform: translateX(5px);
+  }
+  
+  /* Rodapé com gradiente e sombra leve */
+  footer {
+    background: var(--primary-bg);
+    color: var(--primary-color);
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
