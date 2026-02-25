@@ -12,8 +12,7 @@ Estudante de **Ciência da Computação (4º semestre)** na Cruzeiro do Sul, foc
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** JavaScript (ES6+), Python, HTML5, CSS3.
 - **Frameworks/Libs:** React, Node.js, Chart.js.
-- **Ferramentas:** Git, GitHub, VS Code, FL Studio (Produção Musical).
-- **Sistemas:** Windows (Lenovo Ideapad 1i).
+- **Ferramentas:** Git, GitHub, VS Code.
 
 ## 📂 Projetos em Destaque
 * **[Controle Financeiro](https://github.com/Lucas-Tabajara/finance-tracker-js):** Gestão de gastos com gráficos dinâmicos e LocalStorage.
