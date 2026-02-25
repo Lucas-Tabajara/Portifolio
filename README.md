@@ -1,18 +1,21 @@
 # Olá, eu sou o Lucas Tabajara! 👋
 
+### [🚀 Acesse meu Portfólio Online](https://portifolio-lucas-tabajara.netlify.app/)
+
 Estudante de **Ciência da Computação (4º semestre)** na Cruzeiro do Sul, focado em desenvolvimento **Front-End** e entusiasta de **DevOps**. Atualmente baseado em Canoas/RS, estou em processo de transição para **Brasília/DF**.
 
 ## 🚀 Sobre Mim
-- 🎓 Cursando o 3º ano de Ciência da Computação.
+- 🎓 Cursando o 3º ano de Ciência da Computação (Matrícula em Cruzeiro do Sul).
 - 💻 Desenvolvedor focado em ecossistema JavaScript (React, Node.js).
-- 🐍 Experiência com automação de processos utilizando Python.
+- 🐍 Experiência com automação de processos utilizando Python (Accounting Automation).
 - 🗣️ Inglês nível **B2 (Avançado)**.
-- 🎯 Buscando oportunidades de estágio em Front-End ou Desenvolvimento Full Stack.
+- 🎯 Buscando oportunidades de estágio em Front-End para viabilizar minha mudança para Brasília.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** JavaScript (ES6+), Python, HTML5, CSS3.
 - **Frameworks/Libs:** React, Node.js, Chart.js.
-- **Ferramentas:** Git, GitHub, VS Code.
+- **Ferramentas:** Git, GitHub, VS Code, FL Studio.
+- **Hardware:** Desenvolvendo em um Lenovo Ideapad 1i (Celeron, 4GB RAM).
 
 ## 📂 Projetos em Destaque
 * **[Controle Financeiro](https://github.com/Lucas-Tabajara/finance-tracker-js):** Gestão de gastos com gráficos dinâmicos e LocalStorage.
@@ -22,8 +25,8 @@ Estudante de **Ciência da Computação (4º semestre)** na Cruzeiro do Sul, foc
 
 ## 📈 Metas para 2026
 - Concluir a transição para Brasília e iniciar estágio na área de TI.
+- Economizar para a mobília do novo apartamento em Brasília.
 - Aprofundar conhecimentos em **DevOps** e infraestrutura.
-- Evoluir na criação de interfaces modernas e acessíveis.
 
 ---
 
