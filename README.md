@@ -14,7 +14,7 @@ Estudante de **Ciência da Computação (4º semestre)** na Cruzeiro do Sul, foc
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** JavaScript (ES6+), Python, HTML5, CSS3.
 - **Frameworks/Libs:** React, Node.js, Chart.js.
-- **Ferramentas:** Git, GitHub, VS Code, FL Studio.
+- **Ferramentas:** Git, GitHub, VS Code.
 - **Hardware:** Desenvolvendo em um Lenovo Ideapad 1i (Celeron, 4GB RAM).
 
 ## 📂 Projetos em Destaque
